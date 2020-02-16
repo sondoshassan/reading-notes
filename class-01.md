@@ -1,6 +1,7 @@
-# summary 
+# summary class 01
 in the introduction the book intruduce how you can learn and how you can use this book.
 the book will give you knowladge about 90% but you need to study and use google to git 100%.
+
 ## how people access the web
 1. browser
 like: firefox, chrom, safari and opera.
@@ -8,6 +9,7 @@ like: firefox, chrom, safari and opera.
 3. devices include PC, laptops, tablet and phone.
 3. screen readers 
 programs that read out the contents of a computer screen to a user.
+
 ## how websites are created
 1. what you see
 web pages include text, image audio, video, and animation.
