@@ -3,8 +3,8 @@
 - heading
 we are using `<h>` tags from 1 to 6.
 we are using `<h1>` for the main heading but another for subheading.
-- pragraphs
-we are using for write a pragraph `<p>` tag.
+- paragraphs
+we are using for write a paragraph `<p>` tag.
 - bold & italic 
 bold `<b>` , italic `<i>`
 - superscript & subscript
@@ -126,6 +126,7 @@ less than or equal | <=
 1. and `&&`
 2. or `||`
 3. not `!`
+
 
 
 
