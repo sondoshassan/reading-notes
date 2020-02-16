@@ -25,7 +25,7 @@ the feature some of markdown
 2. italic *italic*
 3. heading by using # head 1
 4. table by using `|`
-5. link []()
+5. link `[]()`
 
 
 
