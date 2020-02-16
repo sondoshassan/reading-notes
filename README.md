@@ -3,7 +3,7 @@ In this web you can see what I learn in *201 class*, I summary **all thing** the
 
 no. of read | link
 ------------|------
-Read 1 | [class-01]()
+Read 1 | [class-01](https://sondoshassan.github.io/reading-notes/class-01)
 Read 2 | [class-02]()
 Read 3 | [class-03]()
 Read 4 | [class-04]()
