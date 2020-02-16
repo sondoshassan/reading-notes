@@ -54,6 +54,7 @@ seamless attribute can be applied to an iframe where scrollbars are not desired.
 - information about page 
 `<meta>` not visible to users but fulfills a number of purposes such as telling search engines
 about your page, who created it.
+
 attribute with meta: p191-192
 1. description
 2. keywords
@@ -61,6 +62,8 @@ attribute with meta: p191-192
 4. author
 5. pragma
 6. expires
+
+
  if you need to use a chracter in web use what are termed "escape" characters also known as escape codes or
 entity references).
 For example, to write a left angled bracket, you can use either &lt; or &#60;.p194
