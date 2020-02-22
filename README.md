@@ -4,11 +4,11 @@ In this web you can see what I learn in *201 class*, I summary **all thing** the
 no. of read | link
 ------------|------
 Read 1 | [class-01](https://sondoshassan.github.io/reading-notes/class-01)
-Read 2 | [class-02]()
-Read 3 | [class-03]()
-Read 4 | [class-04]()
-Read 5 | [class-05]()
-Read 6 | [class-06]()
+Read 2 | [class-02](class-02.md)
+Read 3 | [class-03](class-03.md)
+Read 4 | [class-04](class-04.md)
+Read 5 | [class-05](class-05.md)
+Read 6 | [class-06](class-06.md)
 Read 7 | [class-07]()
 Read 8 | [class-08]()
 Read 9 | [class-09]()
