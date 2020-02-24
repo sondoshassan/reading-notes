@@ -1,0 +1,3 @@
+# summary class 08
+## layout in CSS
+we have multiple values for **position rule** like *fixed, relative, sticky and absolute*. we can use **float** to move the content right or left and make the content like  a table. we have fix page which uses pixels and we have a liquid page that uses percentage. we use a grid layout to organize the element on a page. This grid is called the 960-pixel grid and is widely used by web designers. Also, I read about how you can connect the CSS sheet by `@import`.
