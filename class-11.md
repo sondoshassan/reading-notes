@@ -1,6 +1,6 @@
 # summary class 11
 
-## Images in Html
+## Images
 you can control the size of the image by using *width* and *height*, you can control the position of the image by aligning *float* left or right and display centre. you can use the image as a background and control it by using some of the properties like repeat, scroll and fixed.we use image sprit to reduce the number of images your browser has to load.
 
 ## Practical Information
