@@ -1,8 +1,7 @@
 # sumary class 12 
 
 ## Chart in javascript
-it's amethod to display data instead of table. the chart is more clear than table. there is three type of charts, which are par chart, pie chart and line chart. 
-we use with chart `<canvas>`, which has two attributes hight and width. canvas tag is like img tag. The `<canvas>` element has a method called getContext(), used to obtain the rendering context and its drawing functions. we are using functions to draw rectangle, path, arc and line. for change color we use two properties fillStyle and strokeStyle. Also, we can do line style by using several properties.
+it's a method to display data instead of the table. the chart is more clear than the table. there are three types of charts, which are par chart, pie chart and line chart. we use with chart `<canvas>`, which has two attributes height and width. the canvas tag is like img tag. The `<canvas>` element has a method called getContext(), used to obtain the rendering context and its drawing functions. we are using functions to draw rectangle, path, arc and line. for change color we use two properties fillStyle and strokeStyle. Also, we can do line style by using several properties.
 
 
 
