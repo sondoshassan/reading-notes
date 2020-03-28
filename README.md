@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-In this web you can see what I learn in *201 class*, I summary **all thing** there
+In this web you can see what I learn in *201 classes* and *301 classes*, I summary **all thing** there
 
 no. of read | link
 ------------|------
@@ -18,6 +18,8 @@ Read 12 | [class-12](https://sondoshassan.github.io/reading-notes/class-12)
 Read 13 | [class-13](https://sondoshassan.github.io/reading-notes/class-13)
 Read 14 | [class-14](https://sondoshassan.github.io/reading-notes/class-14)
 Read 15 | [class-15](https://sondoshassan.github.io/reading-notes/class-15)
+301 course | 301 course link
+Read 1 | [class-01](./read-01.md)
 
 ## Markdown
 the feature some of markdown
