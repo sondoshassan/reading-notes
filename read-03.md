@@ -23,4 +23,4 @@ properties for children:
 6. align-self
 
 I complete the game and I learned more a bout flex
-![game](./img/frog.png)
+![game](./img/frog.PNG)
