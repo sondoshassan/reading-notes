@@ -21,6 +21,7 @@ Read 15 | [class-15](https://sondoshassan.github.io/reading-notes/class-15)
 301 course | 301 course link
 Read 1 | [class-01](./read-01.md)
 Read 2 | [class-02](./read-02.md)
+Read 3 | [class-03](./read-03.md)
 
 ## Markdown
 the feature some of markdown
