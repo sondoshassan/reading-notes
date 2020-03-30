@@ -1,6 +1,7 @@
 # summary class 03
 
 the template is Html file. Mustache **logic-less** because there are no if statements, else clauses, or for loops. Instead, there are only tags.
+I learned how can use variable and function. we need to install mustach global.
 
 ## flex 
 is a value of display, in the flex there a some of properties for parent and another for children.
