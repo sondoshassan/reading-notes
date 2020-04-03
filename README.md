@@ -24,6 +24,8 @@ Read 2 | [class-02](./read-02.md)
 Read 3 | [class-03](./read-03.md)
 Read 4 | [class-04](./read-04.md)
 Read 5 | [class-05](./read-05.md)
+Read 6 | [class-06](./read-06.md)
+
 
 
 
