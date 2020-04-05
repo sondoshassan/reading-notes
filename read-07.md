@@ -25,3 +25,15 @@ the method comes with request:
 4. .query(); which accept an object
 5. send();
 6. .type();
+7. .retry(); will automatically retry requests, if they fail in a way that is transient or could be due to a flaky Internet connection.
+
+
+## Request Parameters
+- key
+Your Dark Sky secret key. (Your secret key must be kept secret; in particular, do not embed it in JavaScript source code that you transmit to clients.)
+- latitude
+The latitude of a location (in decimal degrees). Positive is north, negative is south.
+- longitude
+The longitude of a location (in decimal degrees). Positive is east, negative is west.
+
+**URLs tell the browser that there's a concept somewhere. A browser can then go ask for a specific representation of the concept**
