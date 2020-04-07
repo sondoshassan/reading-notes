@@ -14,3 +14,12 @@ const slugify = string =>
     .join("-");
 
 slugify(string); 
+- **pure functions + immutable data = referential transparency**
+- Example on Higher order function:
+1. map
+2. filter
+3. basic reduce and advance reduce
+
+
+## Refactoring JavaScript for Performance and Readability
+- take long URl and return short URL
