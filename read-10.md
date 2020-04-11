@@ -15,11 +15,12 @@ function sayHi() {
 greeting();
 
 ## Types of error messages
+1. Reference errors *use a variable that is not yet declared*
+2. Syntax errors
+3. Range errors
+4. Type errors
 
 ## debugging
 the most important thing to can make a debugging know whats is the excution and stacks. we can use console to find the error. Also, we can use *breakpoint* to pause the code. you can use also the console to test line before you write it in code.
 
-**console** is very useful tool, which is in:
-- firefox
-- chrome
-- safari
+we can use for debugging call stack and console.log;
