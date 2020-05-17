@@ -17,7 +17,7 @@ the classes are description fo object, In the classes we use contructor, and use
 the Constructor used new as a keyword and is working object instance.
 
 5- Name a use case for a static method
-
+without instantiating.
 we used to assgin a method in class (like prototype in constructor)
 
 6-Write an example of a Higher Order function and describe the use case it solves
@@ -26,5 +26,10 @@ it takes a nother function as argument
 map: its return a new array by using the another array and function and without change the original array.
 
 ## videos 
+it talk about how to decrease the costs of maintenance, the test will be excutable in all browser, TDD to improve the code and focus on the code without looking for previous code and it is relevant to Javascript.
 
+this is we know from previous course is refer to window. window is a defult context. We can change the context by call, apply and bind. apply take two args the new context and array. bind takes one arg.
 
+prototype chain: as simple is the prototype inside another prototype.
+Class: is a speacial function, we have two types of function which are decleration and expression. we use extend to make a copy from another class. we use `Object.setPrototypeOf()` to make a function as a prototype of class.
+jest: is using to test the code. we can install it by using this command *npm install --save-dev jest* Or *yarn add --dev jest*
