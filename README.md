@@ -43,6 +43,7 @@ Read 2 | [class-02](./read4-02.md)
 Read 3 | [class-03](./read4-03.md)
 Read 4 | [class-04](./read4-04.md)
 linked list | [class-05](./read4-05a.md)
+Read 6 | [class-06](./read4-06.md)
 
 
 
