@@ -44,6 +44,7 @@ Read 3 | [class-03](./read4-03.md)
 Read 4 | [class-04](./read4-04.md)
 linked list | [class-05](./read4-05a.md)
 Read 6 | [class-06](./read4-06.md)
+Read 7 | [class-07](./read4-07.md)
 
 
 
