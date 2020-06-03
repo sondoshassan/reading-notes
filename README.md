@@ -47,6 +47,7 @@ Read 6 | [class-06](./read4-06.md)
 Read 7 | [class-07](./read4-07.md)
 Read 8 | [class-08](./read4-08.md)
 Read 9 | [class-09](./read4-09.md)
+Read 10 | [class-10](./read4-10.md)
 
 
 
