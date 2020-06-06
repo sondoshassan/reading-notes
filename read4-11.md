@@ -4,16 +4,20 @@
  The improtant data like passward and email must be encrypted by using hashing algorthim before saved it to DB. this prevent anyone to access data base including the developer.
 
  ## Cryptography
+
  is a method to encode the massage just the persone who now the secrete information can access this massage.
 
  ## Hash Algorthim 
+
  in user model, a hash password stored when the user sign up. then when the user want to sgin in send the user send password and the server hash login password. then the server can compare between the login password and the stored password  to determine if the user should be authenticated.
 
  ## Cypher Algorithms
+
  this algorthim takes a piece of data and a key to produce as encrypted data. then this data reversed into original data by decrypting by same key.
  tokenSeed (is a random unique string). the server can reverse the token in the tokenSeed by decrypting.
 
 ## Basic Authorization
+
 btoa ==> for username
 atob ==> for bassword
 encode to encrypted the password but decode to return the password. encoded by using base64.
