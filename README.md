@@ -61,6 +61,7 @@ Read 26 | [class-26](./read4-26.md)
 Read 27 | [class-27](./read4-27.md)
 Read 28 | [class-28](./read4-28.md)
 Read 29 | [class-29](./read4-29.md)
+Read 30 | [class-30](./read4-30.md)
 
 
 
