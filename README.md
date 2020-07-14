@@ -70,6 +70,7 @@ Read 35 | [class-35](./read4-35.md)
 Read 36 | [class-36](./read4-36.md)
 Read 37 | [class-37](./read4-37.md)
 Read 38 | [class-38](./read4-38.md)
+Read 39 | [class-39](./read4-39.md)
 
 
 
