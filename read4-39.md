@@ -5,4 +5,3 @@ this redux toolkit, it contains `configureStore()` wraps createStore to provide 
 ## MobX
 makes state management simple by addressing the root issue: it makes it impossible to produce an inconsistent state. The strategy to achieve that make sure that everything that can be derived from the application state, will be derived. Automatically.
 
-## 
